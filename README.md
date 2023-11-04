@@ -1,5 +1,5 @@
 # transfer_pic_with_PYTHON-CLIENT_and_C-SERVER
-#### 概述
+### 概述
 方法分成 origin(server、client) 跟 improved(server_improved、client_improved) 兩種。  
 所有的測試皆是通過虛擬機和本機模擬兩個本地透過socket傳遞圖片測試出的結果。  
 
